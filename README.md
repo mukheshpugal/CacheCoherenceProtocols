@@ -1,7 +1,7 @@
 # CacheCoherenceProtocols
 A gem5 implementation of the MOESI and MESIF cache coherence protocols.
 
-Contains basic MSI protocol codes. Full project will be made public when the paper under the guidance of Prof.Madhu Mutyam gets released.
+Contains basic MSI protocol codes. Full project will be made public when the paper lead by [Rishabh C S](https://github.com/rishabh-c-s) under the guidance of Prof.Madhu Mutyam gets released.
 
 ## Install
 
