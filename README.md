@@ -1,11 +1,8 @@
 # CacheCoherenceProtocols
-A gem5 implementation of the MOESI and MESIF cache coherence protocols.
 
-Contains basic MSI protocol codes. Full project will be made public when the paper lead by [Rishabh C S](https://github.com/rishabh-c-s) gets released.
+A gem5 implementation of the [MOESI](https://en.wikipedia.org/wiki/MOESI_protocol) and [MESIF](https://en.wikipedia.org/wiki/MESIF_protocol) cache coherence protocols.
 
-## MESIF
-Find state transition tables [here](https://docs.google.com/spreadsheets/d/1SAamNLXpjVJxH0q-scm6oz3LbiWPd4M8ccVo1Yu6iyU/edit?usp=sharing).
+## State transition tables
 
-## Install
-
-Follow [this guide](https://www.gem5.org/getting_started/) for building gem5.
+- [MOESI](https://docs.google.com/spreadsheets/d/1-nLFkF0Jk6ai1gBenmK5gIZ3zSlipo5xz-CEE2dG_FI/edit?usp=sharing).
+- [MESIF](https://docs.google.com/spreadsheets/d/1SAamNLXpjVJxH0q-scm6oz3LbiWPd4M8ccVo1Yu6iyU/edit?usp=sharing).
